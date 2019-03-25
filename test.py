@@ -1,6 +1,6 @@
 print("test")
-print("test2")
+print("test7")
 
-print("test3")
+print("test5")
 
 #комментарий с гитхаба
